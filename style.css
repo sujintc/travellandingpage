@@ -1,0 +1,183 @@
+.nav{
+    background-image: url("unsplash_ELf8M_YWRTY.jpg");
+    width: 1440px;
+    height:920px;
+    margin-top: 0;
+}
+.title{
+    
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 500px;
+
+    
+    
+}
+
+.Travel {
+    width: 1100px;
+    height: 89px;
+    margin-top: 300px;
+    margin-left: 40px;
+}
+.Travel h2{
+    font-size: 48px;
+    font-family: poppins;
+    color: blue;
+
+}
+.Travel h3{
+    font-size: 36px;
+    font-family: poppins;
+    color:whitesmoke;
+
+}
+.button{
+    width: 228.01px;
+    height: 75.88px;
+    background-color: blue;
+     border-radius: 13.3px;
+     font-size: medium;
+
+}
+
+.topsel{
+     display: block;
+     margin-left: auto;
+     margin-right: 60%;
+     width: 20%;
+}
+.topdest{
+    display: block;
+    margin-left: auto;
+    margin-right: 50%;
+    width: 40%;
+}
+.three h2{
+    margin-top: -250px;
+    margin-left: 46px;
+}
+.three{
+     display: flex;
+     
+    
+   
+}
+.rome{
+    width: 417px;
+    height: 607px;
+
+}
+.london{
+    width: 417px;
+    height: 607px;
+    margin-left: -30px;
+
+
+}
+.europe{
+    width: 417px;
+    height: 607px;
+    margin-left: 40px;
+
+}
+.bookatrip{
+    width: 1338px;
+    height: 605px;
+    margin-top: 100px;
+
+
+}
+.why{
+
+    margin-top: 150px;
+    margin-left: 10%;
+}
+.star{
+    margin-top: -125px;
+    margin-left: 65px;
+    height: 42;
+    width: 30;
+}
+.world{
+    margin-top: -125px;
+    margin-left: 65px;
+}
+.thumb{
+    margin-top: -125px;
+    margin-left: 65px;
+
+}
+.ell{
+    display: flex;
+    justify-content: space-around;
+}
+.lorem{
+    display: flex;
+    justify-content: space-around;
+}
+.lorem1{
+    width: 300px;
+    height: 130px;
+}
+.lorem2{
+    width: 300px;
+    height: 130px;
+}
+.lorem3{
+    width: 300px;
+    height: 130px;
+}
+.bluestar{
+    margin-right: 70px;
+    width: 1400px;
+    height: 480px ;
+
+}
+.sub{
+    width: 1400px;
+    height: 480px ;
+
+}
+.footer{
+    width: 1400px;
+    height:330px ;
+}
+.card2{
+    margin-top: -250px;
+}
+.card4{
+    margin-top: -250px;
+    margin-left: 100px;
+}
+.card5{
+    margin-top: -250px;
+    margin-left: 100px;}
+
+    
+    /* Mobile devices */
+@media only screen and (max-width: 600px) {
+    /* Your mobile styles go here */
+  }
+  
+  /* Tablets */
+  @media only screen and (min-width: 601px) and (max-width: 768px) {
+    /* Your tablet styles go here */
+  }
+  
+  /* Small desktops */
+  @media only screen and (min-width: 769px) and (max-width: 1024px) {
+    /* Your small desktop styles go here */
+  }
+  
+  /* Medium desktops */
+  @media only screen and (min-width: 1025px) and (max-width: 1280px) {
+    /* Your medium desktop styles go here */
+  }
+  
+  /* Large desktops and beyond */
+  @media only screen and (min-width: 1281px) {
+    /* Your large desktop and beyond styles go here */
+  }
+  
